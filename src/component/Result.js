@@ -52,7 +52,6 @@ class Result extends React.Component {
   render() {
     return(
       <div>
-        <h3>Your Patronous score is: {!this.renderResults()[0] ? '' : this.renderResults()[0] }</h3>
         <ShowPatron scoreIndex={this.renderResults()[1]} />
       </div>
     )
