@@ -2,7 +2,7 @@ Deployed heroku link: https://patronous-test.herokuapp.com/
 
 # Patronous-Test
 
-[App screenshot](https://house-cup.netlify.com/codechallenges/patronoustest/images/patronoustest.png)
+![App screenshot](https://house-cup.netlify.com/codechallenges/patronoustest/images/patronoustest.png)
 
 
 Patronous Test (+10 points)
