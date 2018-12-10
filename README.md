@@ -2,6 +2,8 @@ Deployed heroku link: https://patronous-test.herokuapp.com/
 
 # Patronous-Test
 
+[App screenshot](https://house-cup.netlify.com/codechallenges/patronoustest/images/patronoustest.png)
+
 
 Patronous Test (+10 points)
 Design an application that will administer a quiz to the user to test what their patronous will be. Use the results of that quiz to display the name and picture of the animal that their patronous takes.
