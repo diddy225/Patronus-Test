@@ -1,4 +1,3 @@
-Deployed heroku link: https://patronous-test.herokuapp.com/
 
 # Patronous-Test
 
