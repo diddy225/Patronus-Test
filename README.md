@@ -1,5 +1,5 @@
 
-# Patronous-Test
+# Patronus-Test
 
 ![App screenshot](https://house-cup.netlify.com/codechallenges/patronoustest/images/patronoustest.png)
 
